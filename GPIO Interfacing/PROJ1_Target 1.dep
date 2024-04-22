@@ -1,0 +1,2 @@
+Dependencies for Project 'PROJ1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\fibo.s)(0x66252C7B)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\fibo.lst --xref -o .\fibo.o --depend .\fibo.d)
